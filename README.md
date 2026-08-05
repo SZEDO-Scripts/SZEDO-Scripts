@@ -1,1 +1,1 @@
-## Checkout: https://szedo.scripts.tebex.io
+## Checkout: https://szedo-scripts.tebex.io
